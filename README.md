@@ -31,7 +31,7 @@
   <td>kh</td>
   <td>g</td>
   <td>gh</td>
-  <td>ng, $\textcolor{grey}{\text{ngf}}</td>
+  <td>ng, $\textcolor{grey}{\text{ngf}}$</td>
   <td>c</td>
   <td>ch</td>
   <td>j</td>
@@ -90,7 +90,7 @@
   <td>s</td>
   <td>h</td>
   <td>y</td>
-  <td>ng, $\textcolor{grey}{\text{oo}}</td>
+  <td>ng, $\textcolor{grey}{\text{oo}}$</td>
   
   </tr>
 
