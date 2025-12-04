@@ -17,6 +17,28 @@ E("khela") --> F("খেলা")
 
 <table allign="center">
   <tr>
+  <td>অ</td>
+  <td>আ, া</td>
+  <td>ই, ি</td>
+  <td>উ, ু</td>
+  
+  <td>এ, ে</td>
+  <td>ঐ, ৈ</td>
+  <td>ঔ, ৌ</td>
+  </tr>
+
+  <tr>
+  <td>o</td>
+  <td>a</td>
+  <td>i</td>
+  <td>u</td>
+  
+  <td>e</td>
+  <td>oi</td>
+  <td>ou</td>
+  </tr>
+<tr> <td></td> </tr>
+  <tr>
   <td>ক</td>
   <td>খ</td>
   <td>গ</td>
@@ -96,27 +118,7 @@ E("khela") --> F("খেলা")
   
   </tr>
 
-  <tr>
-  <td>অ</td>
-  <td>আ, া</td>
-  <td>ই, ি</td>
-  <td>উ, ু</td>
   
-  <td>এ, ে</td>
-  <td>ঐ, ৈ</td>
-  <td>ঔ, ৌ</td>
-  </tr>
-
-  <tr>
-  <td>o</td>
-  <td>a</td>
-  <td>i</td>
-  <td>u</td>
-  
-  <td>e</td>
-  <td>oi</td>
-  <td>ou</td>
-  </tr>
 
 
   
@@ -147,16 +149,16 @@ c(kr) --> d("ক্র")
 2. যুক্তবর্ণ এড়াতে বর্ণের মাঝে *পৃথায়ক* ব্যবহার করুন। ক্ষিপ্রতে সেমিকোলন `;` হলো *পৃথায়ক।*\
 যেমন:  
 ```mermaid
-flowchart TD
-A(k;t) --> B("কত")
+flowchart LR
+
 c(k;r) --> d("কর")
 ```
 
 3. পৃথায়কের পরিবর্তে `o` ব্যবহার করেও যুক্তবর্ণ এড়ানো যায়।\
 যেমন:
 ```mermaid
-flowchart TD
-A(kot) --> B("কত")
+flowchart LR
+
 c(kor) --> d("কর")
 ```
 
@@ -165,7 +167,7 @@ c(kor) --> d("কর")
 
 যেমন:
 ```mermaid
-flowchart TD
+flowchart LR
 A(sohoj;;) --> B("সহজ;")
 ```
 
