@@ -88,7 +88,7 @@ e(ksf) --> B(ক্ষ)
 ```mermaid
 flowchart TD
 a(nj) --> b(ঞ্জ)
-e(nc) --> f (ঞ্চ)
+e(nc) --> f(ঞ্চ)
 c(nff) --> d(ঞ)
 ```
 
