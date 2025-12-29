@@ -235,7 +235,7 @@ e(kot) --> f("কত")
 flowchart TD
 a(alp/ona) --> b(আলপনা)
 e(lagb/e) --> f(লাগবে)
-f(aelg/oridom) --> g(অ্যালগরিদম)
+z(aelg/oridom) --> g(অ্যালগরিদম)
 h(ajh/ari) --> i(আজহারি)
 ```
 
