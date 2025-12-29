@@ -69,6 +69,10 @@ a(kh) --> b(খ)
 c(gh) --> d(ঘ)
 e(ch) --> f(ছ)
 g(jh) --> h(ঝ)
+```
+
+```mermaid
+flowchart TD
 i(th) --> j(থ)
 k(dh) --> l(ধ)
 m(ph) --> n(ফ)
