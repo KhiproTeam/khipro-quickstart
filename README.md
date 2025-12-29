@@ -69,7 +69,8 @@ a(kh) --> b(খ)
 c(gh) --> d(ঘ)
 e(ch) --> f(ছ)
 g(jh) --> h(ঝ)
-
+```
+```
 flowchart TD
 i(th) --> j(থ)
 k(dh) --> l(ধ)
