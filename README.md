@@ -252,7 +252,7 @@ d(lingk) --> h(লিঙ্ক)
 বিসর্গ লেখার জন্য `oo` ব্যবহার করতে হবে।
 
 ```mermaid
-flwochart TD
+flowchart TD
 a(duookh) --> b(দুঃখ)
 c(uoo) --> d(উঃ)
 ```
@@ -261,7 +261,7 @@ c(uoo) --> d(উঃ)
 চন্দ্রবিন্দু লেখার জন্য স্বরধ্বনির পরে স্ল্যাশ `/` ব্যবহার করতে হবে।
 
 ```mermaid
-flwochart TD
+flowchart TD
 a(po/ca) --> b(পঁচা)
 c(ae/h) --> d(অ্যাঁহ)
 ```
@@ -269,7 +269,7 @@ c(ae/h) --> d(অ্যাঁহ)
 কোথাও স্বাধীনভাবে চন্দ্রবিন্দু insert করতে `//` দিতে হবে:
 
 ```mermaid
-flwochart TD
+flowchart TD
 a(//) --> b(ঁ)
 ```
 
@@ -352,14 +352,14 @@ z(aelg/oridom) --> g(অ্যালগরিদম)
 এটা ক্ষিপ্র-র অন্যতম প্রধান আকর্ষণ। মডিফায়ার ব্যবহার করে স্বরবর্ণ ⇔ স্বরচিহ্ন পারস্পরিক রূপান্তর করা যায়। যেমন:
 
 ```mermaid
-flwochart TD
+flowchart TD
 a(kurafn) --> b(কুরআন)
 c(miaf) --> d(মিা)
 e(aef) --> f(্যা)
 ```
 
 ```mermaid
-flwochart TD
+flowchart TD
 g(anwar) --> h(আনোয়ার)
 i(anwafr) --> j(আনওয়ার)
 ```
