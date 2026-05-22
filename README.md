@@ -81,7 +81,7 @@ E("khela") --> F("খেলা")
 
 ```mermaid
 flowchart TD
-A(nwuka) --> B("নৌকা")
+A(bou) --> B("বউ")
 c(vitor) --> d("ভিতর")
 e(shorbot) --> f("শরবত")
 g(chiniye) --> h("ছিনিয়ে")
